@@ -1,1 +1,1 @@
-alert("My name is Ayinde Oluwaseyi My Height is 5'5 I am a Nigerian")
+alert("My name is Ayinde Oluwaseyi" /n "My Height is 5'5" /n "I am a Nigerian")
